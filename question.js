@@ -9,12 +9,23 @@ const array = Array.from((text).split(/\n/));
 // ※setオブジェクトは使用禁止
 
 // -----出力例-----
-yrasrevinna ht01 yppaH oToCoC
-shipRelation
-T
- h
-  i
-   n
-    k
-A.,.c　　t
-Aheaak
+'yrasrevinna ht01 yppaH oToCoC',
+'shipRelation',
+'T',
+' h',
+'  i',
+'   n',
+'    k',
+'A.,.c　　t',
+'Aheaak'
+
+
+// 【問題2】
+// 整形する処理を記載
+
+// -----出力例-----
+CoCoTo Happy 10th anniversary
+Relationship
+Think
+Act
+Check
